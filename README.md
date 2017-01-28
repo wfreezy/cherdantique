@@ -8,11 +8,9 @@
 
 <body>
  
- <h1>ANTIKVARIAT</h1>
+ <h1>Европейский антиквариат</h1>
   
 <p>epta</p>
- 
- <p>Another paragraph!  Maybe more text!</p>
 
 </body>
 
