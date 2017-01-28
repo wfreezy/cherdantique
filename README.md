@@ -6,7 +6,7 @@
 <body>
  <h1>Европейский антиквариат</h1>
 <p>epta</p>
-<p> <img src="DSC09675.jpeg" 
+<p> <img src="DSC09675.JPG" 
   width="189" height="255" alt="panno">
 </p>
 
