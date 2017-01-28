@@ -12,6 +12,8 @@
   
 <p>epta</p>
 
+<p> <img src="D:\Mysite\Git\DSC09675" alt="Панно"> </p>
+
 </body>
 
 </html>
