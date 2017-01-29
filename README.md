@@ -20,8 +20,14 @@
  onmouseover="this.width=500;this.height=350"
  onmouseout="this.width=100;this.height=100">
  </td>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" width="80" 
+height="80" title="Лавка в Instagram" /></a></p>
  </body>
- <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" title="Лавка в Instagram" /></a></p>
 </body>
 </html>
 
