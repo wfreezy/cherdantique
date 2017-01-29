@@ -11,7 +11,7 @@
 <td  align="center" width="78" height="102" >
 <img src="DSC09675.JPG" 
   width="200" height="200" alt="panno"
-  title="Увеличение"
+  title="Увеличение и уменьшение"
  onmouseover="this.width=800;this.height=800"
  onmouseout="this.width=800;this.height=800">
  </td>
