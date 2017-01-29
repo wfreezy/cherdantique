@@ -13,7 +13,7 @@
   width="200" height="200" alt="panno"
   title="Увеличение и уменьшение"
  onmouseover="this.width=800;this.height=800"
- onmouseout="this.width=800;this.height=800">
+ onmouseout="this.width=200;this.height=200">
  </td>
 </tr>
 </table>
