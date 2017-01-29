@@ -12,8 +12,8 @@
 <img src="DSC09675.JPG" 
   width="200" height="200" alt="panno"
   title="Увеличение"
- onmouseover="this.width=200;this.height=200"
- onmouseout="this.width=200;this.height=200">
+ onmouseover="this.width=800;this.height=800"
+ onmouseout="this.width=800;this.height=800">
  </td>
 </tr>
 </table>
