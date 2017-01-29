@@ -5,10 +5,13 @@
 </head>
 <body>
  <h1>Европейский антиквариат</h1>
-<p>ANTIK</p>
 <body>
  <td  align="center" width="60" height="60" >
- <p>жопа</p>
+ <p>Антикварное панно"Женщина"
+Франция, 19 век
+Латунь ,Фарфор, Чеканка
+Диаметр 40 см
+Цена 18000 рублей </p>
 <img src="dama.jpg" 
    title="Увеличение"
  onmouseover="this.width=500;this.height=350"
