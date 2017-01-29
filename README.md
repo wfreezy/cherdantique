@@ -12,13 +12,13 @@
 Латунь ,Фарфор, Чеканка
 Диаметр 40 см
 Цена 18000 рублей </p>
-<p>Старинная антикварная ваза "Цветы". 19 век.20 000 рублей</p>
 <img src="dama.jpg" 
    title="Увеличение"
  onmouseover="this.width=500;this.height=350"
  onmouseout="this.width=60;this.height=60">
  </td>
   <td  align="center" width="60" height="60" >
+  <p>Старинная антикварная ваза "Цветы". 19 век.20 000 рублей</p>
   <br>
 <img src="serv1.jpg" 
    title="Увеличение"
