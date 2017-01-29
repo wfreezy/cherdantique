@@ -8,6 +8,7 @@
 <p>ANTIK</p>
 <body>
  <td  align="center" width="60" height="60" >
+ <p>жопа</p>
 <img src="dama.jpg" 
    title="Увеличение"
  onmouseover="this.width=500;this.height=350"
