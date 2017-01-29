@@ -57,6 +57,27 @@
  </td>
   </ul>
  <br>
+ <ul>
+ <td>
+<img src="serv1.jpg" 
+   title="Увеличение"
+ onmouseover="this.width=500;this.height=350"
+ onmouseout="this.width=100;this.height=100">
+ </td>
+ <p><li>👑💫Французское Блюдо💫</li>
+ <li>📝Ручная роспись</li>
+ <li>🎁Лимож</li>
+ <li>📐Размеры 41х27 см</li>
+ <li>🔶Цена 28000 рублей</li>
+ </p>
+ <br>
+ <td  align="center" width="60" height="60" >
+<img src="olen.jpg" 
+   title="Увеличение"
+ onmouseover="this.width=500;this.height=350"
+ onmouseout="this.width=60;this.height=60">
+ </td>
+ </ul>
  <br>
  <br>
  <br>
