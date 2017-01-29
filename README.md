@@ -10,10 +10,9 @@
 <tr>
 <td  align="center" width="78" height="102" >
 <img src="DSC09675.JPG" 
-  width="200" height="200" alt="panno"
-  title="Увеличение и уменьшение"
- onmouseover="this.width=800;this.height=800"
- onmouseout="this.width=200;this.height=200">
+   title="Увеличение"
+ onmouseover="this.width=600;this.height=400"
+ onmouseout="this.width=78;this.height=102">
  </td>
 </tr>
 </table>
