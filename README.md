@@ -13,7 +13,7 @@
  onmouseover="this.width=500;this.height=350"
  onmouseout="this.width=60;this.height=60">
  </td>
-  <td  align="center" width="100" height="100" >
+  <td  align="center" width="60" height="60" >
   <br>
 <img src="serv1.jpg" 
    title="Увеличение"
