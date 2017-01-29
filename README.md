@@ -28,6 +28,9 @@
  <br>
  <br>
  <br>
+ <body>
+ <h1>Посетите instagram</h1>
+</body>
  <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" width="80" 
 height="80" title="Лавка в Instagram" /></a></p>
  </body>
