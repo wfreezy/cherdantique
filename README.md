@@ -59,10 +59,6 @@
  <br>
  <ul>
  <td>
-<img src="serv1.jpg" 
-   title="Увеличение"
- onmouseover="this.width=500;this.height=350"
- onmouseout="this.width=100;this.height=100">
  </td>
  <p><li>👑💫Французское Блюдо💫</li>
  <li>📝Ручная роспись</li>
