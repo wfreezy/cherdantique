@@ -21,6 +21,12 @@
  onmouseout="this.width=100;this.height=100">
  </td>
  <br>
+ <td  align="center" width="60" height="60" >
+<img src="vaza.jpg" 
+   title="Увеличение"
+ onmouseover="this.width=500;this.height=350"
+ onmouseout="this.width=60;this.height=60">
+ </td>
  <br>
  <br>
  <br>
