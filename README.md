@@ -21,7 +21,7 @@
  onmouseout="this.width=100;this.height=100">
  </td>
  </body>
- <p><a href="https://www.instagram.com/cherdachek_antik_orel/">Другая</a> страница.</p>
+ <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" title="Лавка в Instagram" /></a></p>
 </body>
 </html>
 
