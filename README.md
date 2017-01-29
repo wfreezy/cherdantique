@@ -15,7 +15,7 @@
  </td>
  <br>
  <td  align="center" width="100" height="100" >
-<img src="dama.JPG" 
+<img src="dama.jpg" 
    title="Увеличение"
  onmouseover="this.width=500;this.height=350"
  onmouseout="this.width=100;this.height=100">
