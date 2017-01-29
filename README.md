@@ -8,13 +8,14 @@
 <p>ANTIK</p>
 <body>
  <td  align="center" width="100" height="100" >
-<img src=" dama.jpg" 
+<img src="dama.jpg" 
    title="Увеличение"
  onmouseover="this.width=500;this.height=350"
  onmouseout="this.width=100;this.height=100">
  </td>
   <td  align="center" width="100" height="100" >
-<img src=" serv1.jpg" 
+  <br>
+<img src="serv1.jpg" 
    title="Увеличение"
  onmouseover="this.width=500;this.height=350"
  onmouseout="this.width=100;this.height=100">
