@@ -120,6 +120,9 @@
  <form action="send.php">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
+<form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
+   <p><input name="a"> <input type="submit"></p>
+  </form>
  <body> 
  <form>
  <br>
