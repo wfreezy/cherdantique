@@ -115,6 +115,16 @@
  </td>
  </ul>
  <br>
+ <head>
+ <title>фрейм</title>
+ </head>
+ <body>
+  <p><iframe name="area" width="500" height="200"></iframe></p>
+  <form action="handler.php" target="area">
+   <p><input placeholder="Введите текст" name="text">
+   <p><input type="submit" value="Отправить"></p>
+  </form>
+ </body>
  <br>
  <br>
  <br>
