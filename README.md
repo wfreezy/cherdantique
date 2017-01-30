@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="shortcut icon" href="ch.ico" type="image/x-icon">
 <meta charset="utf-8">
   <title>CHERDANTIQUE</title>
 </head>
