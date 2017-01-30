@@ -1,8 +1,8 @@
 <html>
 <head>
-<link rel="shortcut icon" href="ch.ico" type="image/x-icon">
 <meta charset="utf-8">
   <title>CHERDANTIQUE</title>
+  <link rel="shortcut icon" href="ch.ico" type="image/x-icon">
 </head>
 <body>
  <h1>Антиквариат из Европы</h1>
