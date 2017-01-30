@@ -115,6 +115,8 @@
  </td>
  </ul>
  <br>
+<head>
+<h1>НАБЕРИ</h1>
  <title>Введите сообщение</title>
  <body>
   <p><iframe name="area" width="500" height="200"></iframe></p>
@@ -123,6 +125,7 @@
    <p><input type="submit" value="Отправить"></p>
   </form>
  </body>
+ </head>
  <br>
  <br>
  <br>
