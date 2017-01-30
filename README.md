@@ -121,7 +121,6 @@
  <body>
  <h1>Посетите наш instagram >>></h1>
 </body>
-<p style="font-size: 14px;"><b>&#8659;</b></p>
  <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" width="80" 
 height="80" title="Лавка в Instagram" /></a></p>
  </body>
