@@ -127,7 +127,7 @@
   <p><b>Задайте вопрос вот здесь:</b></p>
   <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
   <p><textarea name="submit"></textarea></p>
-  <p><input type="submit"></p>
+  
  </form>
  </body>
  <br>
