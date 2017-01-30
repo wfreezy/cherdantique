@@ -115,7 +115,7 @@
  </td>
  </ul>
  <br>
- <hr align="left" width="500" size="2" color="black" />
+ <hr align="left" width="700" size="4" color="black" />
  <p>Свяжитесь с нами, если возникли какие-либо вопросы:</p> 
  <form action="send.php" method="post">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
