@@ -128,7 +128,6 @@
   <p><input type="submit"></p>
  </form>
  </body>
-<input type="submit" value="Отправить">
 </form>
  <br>
  <br>
