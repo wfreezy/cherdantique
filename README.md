@@ -122,6 +122,7 @@
 <input type="text" name="email" placeholder="Укажите e-mail" required>
  <body> 
  <form action="send.php">
+ <b></b>
   <p><b>Напишите о запланированной покупке нам,пожалуйста:</b></p>
   <p><textarea name="comment"></textarea></p>
   <p><input type="submit"></p>
