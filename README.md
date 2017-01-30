@@ -125,11 +125,9 @@
  <br>
  <body>
   <p><b>Задайте вопрос вот здесь:</b></p>
-  <form action="handler.php">
   <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
-  <p><input type="submit"></p>
-  
- </form>
+   <p><input name="a"> <input type="submit"></p>
+  </form>
 
  <br>
  <br>
