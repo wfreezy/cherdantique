@@ -115,7 +115,8 @@
  </td>
  </ul>
  <br>
- <p>Свяжитесь с нами, если возникли какие-либо вопросы</p> 
+ <hr align="left" width="500" size="2" color="black" />
+ <p>Свяжитесь с нами, если возникли какие-либо вопросы:</p> 
  <form action="send.php" method="post">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
