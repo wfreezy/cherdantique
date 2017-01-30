@@ -122,7 +122,7 @@
 <input type="text" name="email" placeholder="Укажите e-mail" required>
  <body> 
  <form action="send.php">
-  <p><b>Введите ваш отзыв:</b></p>
+  <p><b>Напишите о запланированной покупке нам,пожалуйста:</b></p>
   <p><textarea name="comment"></textarea></p>
   <p><input type="submit"></p>
  </form>
