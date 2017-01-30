@@ -6,5 +6,5 @@ if (isset($_REQUEST['ok'])) {
     header("Location: /handler.php");
     exit();
 }
-include ('1.txt');
+include ('отправкасмс.txt');
 ?>
