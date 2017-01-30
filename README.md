@@ -115,17 +115,11 @@
  </td>
  </ul>
  <br>
- <form>
-<head>
-<h1>НАБЕРИ</h1>
- <body>
-  <p><iframe name="area" width="500" height="200"></iframe></p>
-  <form action="handler.php" target="area">
-   <p><input placeholder="Что-то выбрали?" name="text">
-   <p><input type="submit" value="Отправить"></p>
-  </form>
- </body>
- </head>
+ <form action="send.php" method="post">
+<input type="text" name="fio" placeholder="Укажите ФИО">
+<input type="text" name="email" placeholder="Укажите e-mail">
+<input type="submit" value="Отправить">
+</form>
  <br>
  <br>
  <br>
@@ -135,8 +129,6 @@
 </body>
  <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" width="80" 
 height="80" title="Лавка в Instagram" /></a></p>
-<body>
- </body>
 <html>
 </html>
 
