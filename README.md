@@ -128,6 +128,8 @@
   <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
   <p><textarea name="submit"></textarea></p>
   <p><input type="submit"></p>
+  <body>
+  <form action="handler.php">
  </form>
  </body>
  <br>
