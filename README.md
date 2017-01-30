@@ -120,7 +120,13 @@
  <form action="send.php" method="post">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
-<textarea> type="textarea" name="email" cols=”25” rows=”5” wrap=”on” placeholder="Укажите e-mail"></textarea>
+ <body> 
+ <form action="send.php">
+  <p><b>Введите ваш отзыв:</b></p>
+  <p><textarea name="comment"></textarea></p>
+  <p><input type="submit"></p>
+ </form>
+ </body>
 <input type="submit" value="Отправить">
 </form>
  <br>
