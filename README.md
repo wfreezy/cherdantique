@@ -124,9 +124,9 @@
 
  <br>
  <body>
- <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
   <p><b>Задайте вопрос вот здесь:</b></p>
-  <p><textarea name="comment"></textarea></p>
+  <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
+  <p><textarea name="submit"></textarea></p>
   <p><input type="submit"></p>
  </form>
  </body>
