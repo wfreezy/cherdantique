@@ -121,7 +121,7 @@
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
  <body> 
- <form action="send.php">
+ <form>
  <br>
   <p><b>Задайте вопрос вот здесь:</b></p>
   <p><textarea name="comment"></textarea></p>
