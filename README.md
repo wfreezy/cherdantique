@@ -117,8 +117,8 @@
  <br>
  <p>Свяжитесь с нами, если возникли какие-либо вопросы</p> 
  <form action="send.php" method="post">
-<input type="text" name="fio" placeholder="Что-то выбрали?">
-<input type="text" name="email" placeholder="Укажите e-mail">
+<input type="text" name="fio" placeholder="Что-то выбрали?" required>
+<input type="text" name="email" placeholder="Укажите e-mail" required>
 <input type="submit" value="Отправить">
 </form>
  <br>
