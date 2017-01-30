@@ -52,7 +52,7 @@
  <td  align="center" width="60" height="60" >
 <img src="vaza.jpg" 
    title="Увеличение"
- onmouseover="this.width=500;this.height=350"
+ onmouseover="this.width=600;this.height=600"
  onmouseout="this.width=60;this.height=60">
  </td>
   </ul>
@@ -70,7 +70,7 @@
  <td  align="center" width="60" height="60" >
 <img src="olen.jpg" 
    title="Увеличение"
- onmouseover="this.width=500;this.height=350"
+ onmouseover="this.width=600;this.height=600"
  onmouseout="this.width=60;this.height=60">
  </td>
  </ul>
@@ -90,7 +90,7 @@
  <td  align="center" width="60" height="60" >
 <img src="menaj.jpg" 
    title="Увеличение"
- onmouseover="this.width=500;this.height=350"
+ onmouseover="this.width=600;this.height=600"
  onmouseout="this.width=60;this.height=60">
  </td>
  </ul>
@@ -109,7 +109,7 @@
  <td  align="center" width="60" height="60" >
 <img src="kuv.jpg" 
    title="Увеличение"
- onmouseover="this.width=500;this.height=350"
+ onmouseover="this.width=600;this.height=600"
  onmouseout="this.width=60;this.height=60">
  </td>
  </ul>
