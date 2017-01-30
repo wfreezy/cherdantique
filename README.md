@@ -6,12 +6,6 @@
 <body>
  <h1>Европейский антиквариат</h1>
 <body>
-<body>
- <h1>Посетите наш instagram >>></h1>
-</body>
- <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" width="80" 
-height="80" title="Лавка в Instagram" /></a></p>
- </body>
 <ul>
  <td  align="center" width="60" height="60" >
  <p>
