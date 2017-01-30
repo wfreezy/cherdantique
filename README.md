@@ -116,12 +116,12 @@
  </ul>
  <br>
  <hr align="left" width="700" size="4" color="black" />
+ 
  <p>Свяжитесь с нами, если запланировали какую-либо покупку:</p> 
+ <form>
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
-  
 
- <form>
  <br>
  <body>
  <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
