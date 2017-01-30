@@ -117,6 +117,16 @@
  <br>
  <hr align="left" width="700" size="4" color="black" />
  <p>Свяжитесь с нами, если запланировали какую-либо покупку:</p> 
+ <?php
+if (isset($_REQUEST['ok'])) {
+ 
+    $string = '<p>'.$_REQUEST['username'].'<br>'.$_REQUEST['msg'];
+    file_put_contents('1.txt', $string, FILE_APPEND);
+    header("Location: /handler.php");
+    exit();
+}
+include ('1.txt');
+?>
  <form action="handler.php">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
