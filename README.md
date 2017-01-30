@@ -115,9 +115,9 @@
  </td>
  </ul>
  <br>
+ <form>
 <head>
 <h1>НАБЕРИ</h1>
- <title>Введите сообщение</title>
  <body>
   <p><iframe name="area" width="500" height="200"></iframe></p>
   <form action="handler.php" target="area">
@@ -135,6 +135,7 @@
 </body>
  <p><a href="https://www.instagram.com/cherdachek_antik_orel/"><img src="inst.png" width="80" 
 height="80" title="Лавка в Instagram" /></a></p>
+<body>
  </body>
 <html>
 </html>
