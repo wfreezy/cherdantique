@@ -4,7 +4,7 @@
   <title>CHERDANTIQUE</title>
 </head>
 <body>
- <h1>Европейский антиквариат</h1>
+ <h1>Антиквариат из Европы</h1>
 <body>
 <ul>
  <td  align="center" width="60" height="60" >
@@ -18,7 +18,7 @@
 <td>
 <img src="dama.jpg" 
    title="Увеличение"
- onmouseover="this.width=500;this.height=350"
+ onmouseover="this.width=600;this.height=600"
  onmouseout="this.width=60;this.height=60">
  </td>
  <body>
@@ -40,7 +40,7 @@
   <td>
 <img src="serv1.jpg" 
    title="Увеличение"
- onmouseover="this.width=500;this.height=350"
+ onmouseover="this.width=600;this.height=600"
  onmouseout="this.width=100;this.height=100">
  </td>
  <p><li>💫Старинная антикварная ваза "Цветы"💫</li>
