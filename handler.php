@@ -2,8 +2,8 @@
 if (isset($_REQUEST['ok'])) {
  
     $string = '<p>'.$_REQUEST['username'].'<br>'.$_REQUEST['msg'];
-    file_put_contents('1.txt', $string, FILE_APPEND);
-    header("Location: /отправкасмс.php");
+    file_put_contents('отправкасмс.txt', $string, FILE_APPEND);
+    header("Location: /handler.php");
     exit();
 }
 include ('1.txt');
