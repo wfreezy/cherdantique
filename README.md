@@ -119,7 +119,6 @@
  <p>Свяжитесь с нами, если запланировали какую-либо покупку:</p> 
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
-   <p><input name="a"> <input type="submit"></p>
   
 
  <form>
