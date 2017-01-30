@@ -117,7 +117,7 @@
  <br>
  <hr align="left" width="700" size="4" color="black" />
  <p>Свяжитесь с нами, если запланировали какую-либо покупку:</p> 
- <form action="send.php">
+ <form action="handler.php">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
  <body> 
