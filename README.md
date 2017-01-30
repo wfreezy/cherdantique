@@ -95,6 +95,24 @@
  </td>
  </ul>
  <br>
+  <ul>
+ <td>
+ </td>
+ <p><li>💫Кувшин под воду💫</li>
+ <li>🎁Лимож</li>
+ <li>👌Англия. Staffordshire</li>
+ <li>🔵Фаянс</li>
+ <li>📐Высота 30 см</li>
+ <li>🔶Цена 4100 рублей</li>
+ </p>
+ <br>
+ <td  align="center" width="60" height="60" >
+<img src="kuv.jpg" 
+   title="Увеличение"
+ onmouseover="this.width=500;this.height=350"
+ onmouseout="this.width=60;this.height=60">
+ </td>
+ </ul>
  <br>
  <br>
  <br>
