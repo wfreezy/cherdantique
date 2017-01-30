@@ -120,7 +120,7 @@
  <form action="send.php" method="post">
 <input type="text" name="fio" placeholder="Что-то выбрали?" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
-<input type="textarea" name="email" cols=”25” rows=”5” wrap=”on” placeholder="Укажите e-mail">
+<textarea> type="textarea" name="email" cols=”25” rows=”5” wrap=”on” placeholder="Укажите e-mail"></textarea>
 <input type="submit" value="Отправить">
 </form>
  <br>
