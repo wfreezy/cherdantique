@@ -125,9 +125,20 @@
  <br>
  <body>
   <p><b>Задайте вопрос вот здесь:</b></p>
-  <form action="mailto:lilwfreezy@gmail.com" enctype="text/plain">
-   <p><input name="a"> <input type="submit"></p>
-  </form>
+  
+  <form name="mailex" method="post" ectype="text/plain" 
+action="mailto:lilwfreezy@gmail.com">
+ 
+<p><label for="name2">Your Name: <input type="text" name="name" id="name2"/></label>
+</p>
+ 
+<p><label for="email2">Your E-mail:
+<input type="text" name="email" id="email2"/></label>
+</p>
+ 
+<p><input type="submit" name="submit" value="Submit" /></p>
+ 
+</form>
 
  <br>
  <br>
