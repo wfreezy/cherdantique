@@ -1,10 +1,9 @@
 <?php
-if (isset($_REQUEST['ok'])) {
- 
-    $string = '<p>'.$_REQUEST['username'].'<br>'.$_REQUEST['msg'];
-    file_put_contents('отправкасмс.txt', $string, FILE_APPEND);
-    header("Location: /send.php");
-    exit();
-}
-include ('отправкасмс.txt');
+
+$message = "Line 1\r\nLine 2\r\nLine 3";
+
+$message = wordwrap($message, 70, "\r\n");
+
+
+mail('lilwfreezy@gmail.com', 'My Subject', $message);
 ?>
