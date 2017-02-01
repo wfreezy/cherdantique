@@ -123,18 +123,21 @@
  <body>
   <p><b>Задайте вопрос вот здесь:</b></p>
   
-  <form name="mailex" method="post" ectype="text/plain" 
-action="mailto:lilwfreezy@gmail.com">
  
-<p><label for="name2">Your Name: <input type="text" name="name" id="name2"/></label>
-</p>
- 
-<p><label for="email2">Your E-mail:
-<input type="text" name="email" id="email2"/></label>
-</p>
- 
-<p><input type="submit" name="submit" value="Submit" /></p>
- 
+<form ACTION="send.php" METHOD=post>
+<table BORDER=0>
+<tr><td>Тема</td><td>
+<input type=text name="sub" cols=40>
+</td>
+</tr>
+<tr>
+<td colspan=2>
+Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea>
+</td>
+</tr>
+<TR>
+<TD colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></TD></TR>
+</table>
 </form>
 
  <br>
