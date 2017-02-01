@@ -135,8 +135,8 @@
 Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea>
 </td>
 </tr>
-<TR>
-<TD colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></TD></TR>
+<tr>
+<td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
 </table>
 </form>
 
