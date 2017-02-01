@@ -124,8 +124,7 @@
   <p><b>Задайте вопрос вот здесь:</b></p>
   
  
-<form ACTION="send.php" METHOD=post>
-<table BORDER=0>
+<form ACTION="send.php" method=post>
 <tr><td>Тема</td><td>
 <input type=text name="sub" cols=40>
 </td>
@@ -137,7 +136,6 @@
 </tr>
 <tr>
 <td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
-</table>
 </form>
 
  <br>
