@@ -124,18 +124,10 @@
   <p><b>Задайте вопрос вот здесь:</b></p>
   
  
-<form ACTION="send.php" method=post>
-<tr><td>Тема</td><td>
-<input type=text name="sub" cols=40>
-</td>
-</tr>
-<tr>
-<td colspan=2>
-Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea>
-</td>
-</tr>
-<tr>
-<td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
+<form action="send.php" method="post">
+<input type="text" name="fio" placeholder="Укажите ФИО" required>
+<input type="text" name="email" placeholder="Укажите e-mail" required>
+<input type="submit" value="Отправить">
 </form>
 
  <br>
