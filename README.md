@@ -123,7 +123,6 @@
  <body>
   <p><b>Задайте вопрос вот здесь:</b></p>
   
- 
 <form action="send.php" method="post">
 <input type="text" name="fio" placeholder="Укажите ФИО" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
