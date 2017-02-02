@@ -129,7 +129,7 @@
 <br>
 <p>text</p>
 <br>
-<textarea name="mes" cols=40 rows=5></textarea>
+<input type="textarea" name="mes" cols=40 rows=5 /textarea>
 <input type="submit" value="Отправить">
 </form>
 
