@@ -126,10 +126,11 @@
 <form action="send.php" method="post">
 <input type="text" name="fio" placeholder="Укажите ФИО" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
+<tr>
+<td colspan=2>
+Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea></td>
+</tr>
 <br>
-<p>text</p>
-<br>
-<input type="textarea" name="mes" cols=40 rows=5 /textarea>
 <input type="submit" value="Отправить">
 </form>
 
