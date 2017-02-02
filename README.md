@@ -127,12 +127,14 @@
 <input type="text" name="fio" placeholder="Укажите ФИО" required>
 <input type="text" name="email" placeholder="Укажите e-mail" required>
 </form>
+
 <form>
 <tr>
-<td colspan=2>
-<textarea name="mes" cols=40 rows=5></textarea></td>
+<textarea name="mes" cols=40 rows=5></textarea>
 </tr>
+</form>
 <br>
+<form>
 <input type="submit" value="Отправить">
 </form>
 
