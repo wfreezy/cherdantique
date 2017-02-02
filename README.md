@@ -123,19 +123,14 @@
  <body>
   <p><b>Задайте вопрос вот здесь:</b></p>
   
-<form action="send.php" method="post">
-<input type="text" name="fio" placeholder="Укажите ФИО" required>
-<input type="text" name="email" placeholder="Укажите e-mail" required>
-</form>
-
-<form>
-<tr>
-<textarea name="mes" cols=40 rows=5></textarea>
-</tr>
-</form>
-<br>
-<form>
-<input type="submit" value="Отправить">
+<form method="post" action=" send.php " >
+<p>Ваше имя:</p>
+<input type="text" name="name"  title="Введите ваше имя" required/>
+<p>Ваш e-mail:</p>
+<input type="text" name="email"  required/>
+<p>Ваше сообщение:</p>
+<textarea name="mess" cols="70" rows="7" required></textarea>
+<input type="submit" value="Отправить" />
 </form>
 
  <br>
