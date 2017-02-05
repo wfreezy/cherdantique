@@ -123,15 +123,35 @@
  <body>
   <p><b>Задайте вопрос вот здесь:</b></p>
   
-<form method="post" action=" send.php " >
-<p>Ваше имя:</p>
-<input type="text" name="name"  title="Введите ваше имя" required/>
-<p>Ваш e-mail:</p>
-<input type="text" name="email"  required/>
-<p>Ваше сообщение:</p>
-<textarea name="mess" cols="70" rows="7" required></textarea>
-<input type="submit" value="Отправить" />
+<form method="POST" id="feedback-form">
+Как к Вам обращаться:
+<input type="text" name="nameFF" required placeholder="фамилия имя отчество" x-autocompletetype="name">
+Email для связи:
+<input type="email" name="contactFF" required placeholder="адрес электронной почты" x-autocompletetype="email">
+Ваше сообщение:
+<textarea name="messageFF" required rows="5"></textarea>
+<input type="submit" value="отправить">
 </form>
+
+<script>
+document.getElementById('feedback-form').addEventListener('submit', function(evt){
+  var http = new XMLHttpRequest(), f = this;
+  evt.preventDefault();
+  http.open("POST", "contacts.php", true);
+  http.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+  http.send("nameFF=" + f.nameFF.value + "&contactFF=" + f.contactFF.value + "&messageFF=" + f.messageFF.value);
+  http.onreadystatechange = function() {
+    if (http.readyState == 4 && http.status == 200) {
+      alert(http.responseText + ', Ваше сообщение получено.\nНаши специалисты ответят Вам в течении 2-х дней.\nБлагодарим за интерес к нашей фирме!');    
+      f.messageFF.removeAttribute('value');
+      f.messageFF.value='';
+    }
+  }
+  http.onerror = function() {
+    alert('Извините, данные не были переданы');
+  }
+}, false);
+</script>
 
  <br>
  <br>
