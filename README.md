@@ -125,7 +125,9 @@
   
 <form method="POST" id="feedback-form">
 Как к Вам обращаться:
+<br>
 <input type="text" name="nameFF" required placeholder="фамилия имя отчество" x-autocompletetype="name">
+<br>
 Email для связи:
 <input type="email" name="contactFF" required placeholder="адрес электронной почты" x-autocompletetype="email">
 Ваше сообщение:
@@ -137,7 +139,7 @@ Email для связи:
 document.getElementById('feedback-form').addEventListener('submit', function(evt){
   var http = new XMLHttpRequest(), f = this;
   evt.preventDefault();
-  http.open("POST", "https://github.com/wfreezy/cherdantique/blob/master/contacts.php", true);
+  http.open("POST", "https://github.com/wfreezy/cherdantique/contacts.php", true);
   http.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   http.send("nameFF=" + f.nameFF.value + "&contactFF=" + f.contactFF.value + "&messageFF=" + f.messageFF.value);
   http.onreadystatechange = function() {
