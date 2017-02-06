@@ -50,3 +50,12 @@ if (isset ($_POST['messageFF'])) {
   echo ('<p style="color: green">Ваше сообщение получено, спасибо!</p>');
 }
 ?>
+<form method="POST" id="feedback-form">
+Как к Вам обращаться:
+<input type="text" name="nameFF" required placeholder="фамилия имя отчество" x-autocompletetype="name">
+Email для связи:
+<input type="email" name="contactFF" required placeholder="адрес электронной почты" x-autocompletetype="email">
+Ваше сообщение:
+<textarea name="messageFF" required rows="5"></textarea>
+<input type="submit" value="отправить">
+</form>
