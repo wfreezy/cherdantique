@@ -137,7 +137,7 @@ Email для связи:
 document.getElementById('feedback-form').addEventListener('submit', function(evt){
   var http = new XMLHttpRequest(), f = this;
   evt.preventDefault();
-  http.open("POST", "https://github.com/wfreezy/cherdantique/contacts.php", true);
+  http.open("POST", "contacts.php", true);
   http.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   http.send("nameFF=" + f.nameFF.value + "&contactFF=" + f.contactFF.value + "&messageFF=" + f.messageFF.value);
   http.onreadystatechange = function() {
@@ -148,7 +148,7 @@ document.getElementById('feedback-form').addEventListener('submit', function(evt
     }
   }
   http.onerror = function() {
-    alert('Извините, данные не были переданы');
+    alert('Извините, данные не были переданы, отправьте свое послание на lolo4nik@gmail.com');
   }
 }, false);
 </script>
