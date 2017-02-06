@@ -148,7 +148,7 @@ document.getElementById('feedback-form').addEventListener('submit', function(evt
     }
   }
   http.onerror = function() {
-    alert('Извините, данные не были переданы, отправьте свое послание на lolo4nik@gmail.com');
+    alert('Извините, данные не были переданы, отправьте свое послание на lilwfreezy@gmail.com');
   }
 }, false);
 </script>
