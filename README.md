@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta charset="utf-8">
+<meta name="yandex-verification" content="2fa6254dc6557027" />
   <title>CHERDANTIQUE</title>
   <link rel="shortcut icon" href="ch.ico" type="image/x-icon">
 </head>
