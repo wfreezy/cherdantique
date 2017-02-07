@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta name="yandex-verification" content="2fa6254dc6557027" />
 <style>
 #feedback-form {
   max-width: 400px;
