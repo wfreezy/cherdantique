@@ -150,7 +150,7 @@ document.getElementById('feedback-form').addEventListener('submit', function(evt
     }
   }
   http.onerror = function() {
-    alert('Извините, данные не были переданы, отправьте послание на lilwfreezy@gmail.com или посесите инстаграм');
+    alert('Извините, данные не были переданы, отправьте послание на lilwfreezy@gmail.com или свяжитесь с нами в instagram');
   }
 }, false);
 </script>
