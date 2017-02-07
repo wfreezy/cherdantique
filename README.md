@@ -125,14 +125,14 @@
   
 <form method="POST" id="feedback-form">
 Как к Вам обращаться:
-<input type="text" name="nameFF" required placeholder="фамилия имя отчество" x-autocompletetype="name">
+<input type="text" name="nameFF" required placeholder="Ваше имя" x-autocompletetype="name">
 <br>
 Email для связи:
-<input type="email" name="contactFF" required placeholder="адрес электронной почты" x-autocompletetype="email">
+<input type="email" name="contactFF" required placeholder="Адрес электронной почты" x-autocompletetype="email">
 <br>
 Ваше сообщение:
 <textarea name="messageFF" required rows="5"></textarea>
-<input type="submit" value="отправить">
+<input type="submit" value="Отправить">
 </form>
 
 <script>
